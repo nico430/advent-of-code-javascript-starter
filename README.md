@@ -1,6 +1,6 @@
 # Advent of Code Javascript Starter
 
-A tamplate for [Advent of Code](https://adventofcode.com) written in Javascript with Node.
+A template for [Advent of Code](https://adventofcode.com) written in Javascript with Node.
 
 ## Usage
 
